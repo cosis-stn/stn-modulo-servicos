@@ -3,6 +3,7 @@
   "authors": [
     "Fabio dos Santos Barbosa <fabio.barbosa@gmail.com>"
   ],
+  "version": "1.0.0",
   "description": "Componente com o conjunto de servicos padronizados utilizados pela Secretaria do Tesouro Nacional para sistemas internos departamentais",
   "main": "servicos.js",
   "moduleType": [],
